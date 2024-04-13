@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "video",
+    "name": "vidéo",
+    "scheme": "vidéo",
     "slug": "video",
     "version": "1.0.0",
     "orientation": "portrait",
