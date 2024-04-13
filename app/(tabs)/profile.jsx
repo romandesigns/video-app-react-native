@@ -1,12 +1,12 @@
 import {  Text, View } from 'react-native'
 import React from 'react'
 
-const profile = () => {
+const Profile = () => {
   return (
     <View className="flex-1 items-center justify-center bg-white text-red-500">
-      <Text >profile</Text>
+      <Text >Profile</Text>
     </View>
   )
 }
 
-export default profile
+export default Profile
